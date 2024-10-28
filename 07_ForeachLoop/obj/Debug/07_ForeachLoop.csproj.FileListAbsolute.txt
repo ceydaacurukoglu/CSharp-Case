@@ -1,0 +1,7 @@
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe.config
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\07_ForeachLoop\bin\Debug\07_ForeachLoop.exe
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\07_ForeachLoop\bin\Debug\07_ForeachLoop.pdb
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\07_ForeachLoop\obj\Debug\07_ForeachLoop.exe
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\07_ForeachLoop\obj\Debug\07_ForeachLoop.pdb

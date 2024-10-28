@@ -1,0 +1,7 @@
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\03Making Decision\bin\Debug\03Making Decision.exe.config
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\03Making Decision\bin\Debug\03Making Decision.exe
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\03Making Decision\bin\Debug\03Making Decision.pdb
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\03Making Decision\obj\Debug\03Making Decision.csproj.AssemblyReference.cache
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\03Making Decision\obj\Debug\03Making Decision.csproj.CoreCompileInputs.cache
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\03Making Decision\obj\Debug\03Making Decision.exe
+C:\Users\ceyda\source\repos\CSharpEğitimKampı\03Making Decision\obj\Debug\03Making Decision.pdb
